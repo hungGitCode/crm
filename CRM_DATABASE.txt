@@ -55,3 +55,4 @@ INSERT INTO status( name ) VALUES ("ChÆ°a thá»±c hiá»‡n");
 INSERT INTO status( name ) VALUES ("Äang thá»±c hiá»‡n");
 INSERT INTO status( name ) VALUES ("ÄĂ£ hoĂ n thĂ nh");
 
+Noi dung duo them tren server
